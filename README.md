@@ -1,17 +1,19 @@
-# Wedding-Dewi-Rio
+# Wedding-Dewi-Rizul
 
-## Template website undangan pernikahan sederhana
+Web
+
+# Template website undangan pernikahan sederhana
 
 ![Thumbnail](/assets/images/banner.png)
 ![Thumbnail2](/assets/images/banner2.png)
 [![pages-build-deployment](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment/badge.svg?branch=3.x)](https://github.com/dewanakl/undangan/actions/workflows/pages/pages-build-deployment)
 ![Hits](https://dikit.my.id/0b3y8q)
 
-### Demo
+## Demo
 
 <https://dewanakl.github.io/undangan/?to=Teman+teman+semua>
 
-#### Deployment API
+### Deployment API
 
 - Vercel
 [https://dikit.my.id/DeploymentApiVercel](https://dikit.my.id/DeploymentApiVercel)
@@ -19,7 +21,7 @@
 - Hosting
 [https://dikit.my.id/DeploymentApiHosting](https://dikit.my.id/DeploymentApiHosting)
 
-#### Tech stack
+### Tech stack
 
 - Bootstrap 5.3.3
 - AOS 2.3.4
@@ -29,14 +31,14 @@
 - Google Fonts
 - Vanilla JS
 
-#### Contributing
+### Contributing
 
 I'm very open to those of you who want to contribute to the undangan!
 
-#### Security Vulnerabilities
+### Security Vulnerabilities
 
 If you find any security vulnerabilities in this undangan, please email DKL via [Amirrmahmud666@gmail.com](mailto:Amirrmahmud666@gmail.com).
 
-#### License
+### License
 
 Undangan is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
