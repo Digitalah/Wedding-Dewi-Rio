@@ -1,3 +1,5 @@
+# Wedding-Dewi-Rizul
+Web
 # Template website undangan pernikahan sederhana
 
 ![Thumbnail](/assets/images/banner.png)
